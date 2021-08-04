@@ -1,0 +1,16 @@
+{
+  "name": "quickly.css",
+  "version": "1.0.0",
+  "description": "A lib to speed up CSS",
+  "main": "lib.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stereo18/quickly.css.git"
+  },
+  "author": "stereo18",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stereo18/quickly.css/issues"
+  },
+  "homepage": "https://github.com/stereo18/quickly.css#readme"
+}
